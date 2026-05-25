@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-05-25T10:57:37.402173",
+    "message": "I am so happy today!",
+    "emotion": "happy",
+    "confidence": 0.2
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-05-25T10:57:37.431308",
+    "message": "I feel very sad and lonely",
+    "emotion": "sad",
+    "confidence": 0.33
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-05-25T10:57:37.432662",
+    "message": "I'm really angry right now!",
+    "emotion": "angry",
+    "confidence": 0.2
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-05-25T10:57:37.433061",
+    "message": "This is surprising and amazing!",
+    "emotion": "neutral",
+    "confidence": 0.0
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-05-25T10:57:37.433428",
+    "message": "I'm scared and nervous",
+    "emotion": "fearful",
+    "confidence": 0.5
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-05-25T10:57:37.433762",
+    "message": "This is gross and disgusting",
+    "emotion": "disgusted",
+    "confidence": 0.2
+  }
+]
